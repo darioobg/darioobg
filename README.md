@@ -65,9 +65,7 @@ Si te interesa conocer más de mi trabajo o colaborar conmigo:
 
 ## ⭐ Si te gusta mi trabajo…
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l378c04F2E0S3x32s/giphy.gif" width="300"/>
-</p>
+
 
 No dudes en dejar una ⭐ en el repositorio.  
 ¡Gracias por pasarte por aquí! 😄
