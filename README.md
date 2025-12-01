@@ -37,7 +37,7 @@ Este repositorio recopila mis mejores prácticas, proyectos y experimentos desar
 ---
 ## 🔥 Proyectos destacados
 
-### 🕹️ [Proyecto 1 – Gestor de Rutas]
+### 🕹️ [Proyecto 1 – Gestor de Rutas](https://github.com/gsanemeteriog/DAW1_EQUIPO2_2425.git)
 
 
 ---
