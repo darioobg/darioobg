@@ -34,6 +34,10 @@ Este repositorio recopila mis mejores prácticas, proyectos y experimentos desar
 - 🛠️ **Experimentos con frameworks**  
 - 🌐 **Desarrollo web full-stack**  
 
+---
+## 🔥 Proyectos destacados
+
+### 🕹️ [Proyecto 1 – Gestor de Rutas]
 
 
 ---
