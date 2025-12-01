@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200" />
 </p>
 
-<h1 align="center">🚀 Portafolio DAW2 – Dario Briongos</h1>
+<h1 align="center">🚀 DAW2 – Dario Briongos</h1>
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
 
 <br/>
