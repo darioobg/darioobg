@@ -1,8 +1,7 @@
 <!-- Portada animada -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200" />
-  </p>
+
 <p align="center">
+   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200" />
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hola%2C+soy+Dario+Briongos+Garc%C3%ADa;Desarrollador+Web+en+formaci%C3%B3n;Estudiante+de+2%C2%BA+de+DAW;Apasionado+del+Backend+y+los+Proyectos+Reales" />
 </p>
 
