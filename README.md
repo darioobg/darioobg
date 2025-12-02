@@ -61,10 +61,15 @@ Me encanta trabajar en equipo, compartir ideas y recibir feedback para mejorar c
 
 ## 📫 Contacto
 
-Si te interesa conocer más de mi trabajo o colaborar conmigo:
+<p align="center">
+  <a href="mailto:dariiobriongosgarcia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactarme-red?style=for-the-badge&logo=gmail" />
+  </a>
 
-- 💼 **LinkedIn:** _https://es.linkedin.com/in/dario-briongos-garcia-058b17273?trk=people-guest_people_search-card_  
-- 📧 **Email:** _dariiobriongosgarcia@gmail.com_
+  <a href="https://github.com/darioobg">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 ---
 
 ## ⭐ Si te gusta mi trabajo…
