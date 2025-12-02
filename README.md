@@ -5,9 +5,6 @@
 </p>
 
 
-<h1 align="center">🚀 Dario Briongos</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
-
 <br/>
 
 ---
